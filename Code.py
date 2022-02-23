@@ -1,4 +1,3 @@
-from random import randint
 from PIL import ImageTk,Image
 from tkinter import *
 import webbrowser
